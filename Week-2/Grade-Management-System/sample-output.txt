@@ -1,0 +1,15 @@
+========== GRADE MANAGEMENT SYSTEM ==========
+1. Add student marks
+2. View all students
+3. Calculate student averages and grades
+4. Find top performer
+5. Search student
+6. Generate performance report
+7. Exit
+
+Example calculation for Alice Johnson:
+Marks: 92, 88, 95, 78, 91
+Average: 88.80
+Highest mark: 95.00
+Lowest mark: 78.00
+Grade: B
